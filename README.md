@@ -21,7 +21,7 @@
 [![Rakibadnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibadnan059&show_icons=true&theme=dracula)](https://github.com/rakibadnan059/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibadnan059&size_weight=0.5&count_weight=0.5)](https://github.com/rakibadnan059/github-readme-stats)
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rakibadnan059&theme=jolly" width="800">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rakibadnan059&theme=jolly" width="700">
 
 <h3>Tools:</h3>
 
