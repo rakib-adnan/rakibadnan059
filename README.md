@@ -21,7 +21,7 @@
 [![Rakibadnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibadnan059&show_icons=true&theme=dracula)](https://github.com/rakibadnan059/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibadnan059&size_weight=0.5&count_weight=0.5)](https://github.com/rakibadnan059/github-readme-stats)
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rakibadnan059&theme=jolly" width="700">
 
 <h3>Tools:</h3>
 
@@ -43,6 +43,12 @@
 <a href="https://www.behance.net/rakibadnan0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rakibadnan0" height="30" width="40" /></a>
 <a href="https://medium.com/@rakibadnan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rakibadnan1" height="30" width="40" /></a>
 </p>
+
+
+## Watch snake eating my github contributions 
+ 
+![snake gif](https://github.com/rakibadnan059/rakibadnan059/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
