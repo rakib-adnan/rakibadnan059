@@ -1,6 +1,6 @@
-<img align="center" style="object-fit:cover;" alt="Coding" width="1000" height="400" src="https://i.ibb.co/9gXHxVx/8.jpg" />
-<h1 align="center">Hi 👋, I'm Rakib Adnan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rakibadnan.com)
+<h1 align="left">Hi 👋, I'm Rakib Adnan</h1>
+<h3 align="left">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibadnan059&label=Profile%20views&color=0e75b6&style=flat" alt="rakibadnan059" /> </p>
 
