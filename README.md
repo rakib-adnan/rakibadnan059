@@ -20,7 +20,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibadnan059&size_weight=0.5&count_weight=0.5)](https://github.com/rakibadnan059/github-readme-stats)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devesabbir&label=Profile%20views&color=0e75b6&style=flat" alt="devesabbir" /> </p>
 
+<p> <a href="https://twitter.com/rakib_adnan1" target="_blank"><img src="https://img.shields.io/twitter/follow/devesabbir?logo=twitter&style=for-the-badge" alt="rakib_adnan1" /></a> <a href="https://www.linkedin.com/in/rakibadnan/" target="_blank" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  /> </a>
+</p>
 <h3>Tools:</h3>
 
 <p>
