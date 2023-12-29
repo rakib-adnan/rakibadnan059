@@ -1,11 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rakibadnan.com)
+<img align="center" style="object-fit:cover;" alt="Coding" width="1000" height="400" src="https://i.ibb.co/9gXHxVx/8.jpg" />
 <h1 align="center">Hi 👋, I'm Rakib Adnan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="center" style="object-fit:cover;" alt="Coding" width="900" height="400" src="https://i.ibb.co/9gXHxVx/8.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibadnan059&label=Profile%20views&color=0e75b6&style=flat" alt="rakibadnan059" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibadnan059" alt="rakibadnan059" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rakib_adnan1" target="blank"><img src="https://img.shields.io/twitter/follow/rakib_adnan1?logo=twitter&style=for-the-badge" alt="rakib_adnan1" /></a> </p>
 
